@@ -1,0 +1,11 @@
+build/
+.dep/
+*.map
+*.eep
+*.elf
+*.hex
+*.sym
+*.lss
+*.lst
+*.o
+*.py

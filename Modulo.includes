@@ -1,0 +1,11 @@
+D:/Tools/WINAVR/avr/include
+D:/Tools/WINAVR/avr/include/avr/
+D:/Tools/WINAVR/avr/include/compat/
+D:/Tools/WINAVR/avr/include/util/
+.
+./utility/inc
+./events/inc
+./hardware/inc
+./apps/inc
+./apps/caustic/inc
+./apps/dmachine/inc
